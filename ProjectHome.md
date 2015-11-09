@@ -1,0 +1,1 @@
+A turn based strategy game for Android, called Vengeful Vikings. It is based on LibGDX.
